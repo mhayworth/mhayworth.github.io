@@ -15,6 +15,7 @@ h1 {
 .text {
     background-color: #D3D3D3;
     padding: 25px;
+    border-radius: 25px;
 }
 
 .link {
