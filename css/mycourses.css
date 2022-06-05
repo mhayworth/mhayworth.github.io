@@ -13,8 +13,9 @@ h1 {
 }
 
 .text {
+    margin: 1%;
     background-color: #D3D3D3;
-    padding: 25px;
+    padding: 1%;
     border-radius: 25px;
 }
 
