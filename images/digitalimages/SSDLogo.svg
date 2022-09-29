@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="SSDLogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="400.5"
+     inkscape:cy="537.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs2">
+    <rect
+       x="186"
+       y="431"
+       width="347.34167"
+       height="318.24116"
+       id="rect3550" />
+    <rect
+       x="206"
+       y="380"
+       width="126"
+       height="122"
+       id="rect3542" />
+    <rect
+       x="213"
+       y="437"
+       width="188"
+       height="141"
+       id="rect3168" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#000080;fill-opacity:1;stroke-width:0.264583"
+       id="path2382"
+       cx="103.45207"
+       cy="138.64166"
+       r="71.966667" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <circle
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.264583"
+       id="path2326"
+       cx="103.45208"
+       cy="138.90623"
+       r="64.822914" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Matura MT Script Capitals';-inkscape-font-specification:'Matura MT Script Capitals';fill:#000038;fill-opacity:1;stroke-width:0.264583"
+       x="98.959122"
+       y="141.03142"
+       id="text3664"
+       transform="rotate(20)"><tspan
+         sodipodi:role="line"
+         id="tspan3662"
+         style="fill:#000038;stroke-width:0.264583;fill-opacity:1"
+         x="98.959122"
+         y="141.03142">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Matura MT Script Capitals';-inkscape-font-specification:'Matura MT Script Capitals';fill:#00006f;fill-opacity:1;stroke-width:0.264583"
+       x="77.454704"
+       y="191.39171"
+       id="text3668"><tspan
+         sodipodi:role="line"
+         id="tspan3666"
+         style="stroke-width:0.264583;fill:#00006f;fill-opacity:1"
+         x="77.454704"
+         y="191.39171">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Matura MT Script Capitals';-inkscape-font-specification:'Matura MT Script Capitals';fill:#0000b6;fill-opacity:1;stroke-width:0.264583"
+       x="-26.677488"
+       y="222.87054"
+       id="text3672"
+       transform="rotate(-40)"><tspan
+         sodipodi:role="line"
+         id="tspan3670"
+         style="stroke-width:0.264583;fill:#0000b6;fill-opacity:1"
+         x="-26.677488"
+         y="222.87054">D</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.22913588,-0.13229166,0.13229166,0.22913588,-65.650368,16.238823)"
+       id="text3548"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:Gadugi;-inkscape-font-specification:Gadugi;white-space:pre;shape-inside:url(#rect3550);shape-padding:2;fill:#ff6600;fill-opacity:1"><tspan
+         x="188"
+         y="605.94485"
+         id="tspan3799"><tspan
+           style="font-family:'Matura MT Script Capitals';-inkscape-font-specification:'Matura MT Script Capitals'"
+           id="tspan3797">U</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Matura MT Script Capitals';-inkscape-font-specification:'Matura MT Script Capitals';fill:#000080;fill-opacity:1;stroke-width:0.264583"
+       x="-17.998878"
+       y="165.77446"
+       id="text3610"
+       transform="rotate(-40)"><tspan
+         sodipodi:role="line"
+         id="tspan3608"
+         style="font-size:50.8px;stroke-width:0.264583"
+         x="-17.998878"
+         y="165.77446">F</tspan></text>
+  </g>
+</svg>

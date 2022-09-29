@@ -1,6 +1,6 @@
 html, body {
-    background-color: #F5F5F5;
-    color: rgb(72, 79, 186);
+    background-color:  rgb(4, 10, 87);;
+    color: #F5F5F5;
     height: 100%;
     padding: 0;
     margin: 1%;
@@ -18,7 +18,7 @@ p {
 }
 
 .text {
-    background-color: #D3D3D3;
+    background-color: rgb(4, 10, 40);
     margin: 1%;
     border-radius: 25px;
 }
