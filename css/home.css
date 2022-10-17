@@ -12,6 +12,11 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    text-align:center;
+    padding: 20px;
+}
+
 p {
     font-size: large;
     padding: 20px;
