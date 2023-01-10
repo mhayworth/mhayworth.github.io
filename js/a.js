@@ -6,6 +6,8 @@ $(document).ready(function () {
     $("#CEN3031Body").hide();
     $("#CDA3101Body").hide();
     $("#EEL3701Body").hide();
+    $("#CIS4930Body").hide();
+    $("#COP4020Body").hide();
 
     $("#COP3502").click(function(){
         $("#COP3502Body").toggle();
@@ -30,5 +32,13 @@ $(document).ready(function () {
 
     $("#EEL3701").click(function(){
         $("#EEL3701Body").toggle();
+    });
+
+    $("#CIS4930").click(function(){
+        $("#CIS4930Body").toggle();
+    });
+
+    $("#COP4020").click(function(){
+        $("#COP4020Body").toggle();
     });
 });
