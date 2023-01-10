@@ -1,6 +1,6 @@
 html, body {
-    background-color:  rgb(4, 10, 87);;
-    color: #F5F5F5;
+    background-color:  white;;
+    color: #161515;
     height: 100%;
     padding: 0;
     margin: 1%;
@@ -19,7 +19,7 @@ p {
 }
 
 .text {
-    background-color: rgb(4, 10, 40);
+    background-color: rgb(245, 245, 245);
     margin: 1%;
     border-radius: 25px;
 }
@@ -44,6 +44,22 @@ iframe {
     align-items: center;
     justify-content: center;
     margin-bottom: 5%;
+}
+
+a {
+    background-color: rgb(245, 245, 245);
+    border: none;
+    color: #161515;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.nav {
+    text-align: center;
+
 }
 
 
